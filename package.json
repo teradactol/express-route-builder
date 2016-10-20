@@ -1,0 +1,19 @@
+{
+  "name": "@teradactol/express-route-builder",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teradactol/express-route-builder.git"
+  },
+  "author": "Bishaka Samuel <sbishaka@gmail.com> (https://twitter.com/sbishaka)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teradactol/express-route-builder/issues"
+  },
+  "homepage": "https://github.com/teradactol/express-route-builder#readme"
+}
